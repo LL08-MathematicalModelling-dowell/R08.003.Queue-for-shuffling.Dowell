@@ -1,0 +1,4 @@
+for shuffling, we will select only those profiles (from all 45 thousands) who are satisfying below conditions:
+  1)	Profile should be active 
+  2)	it should be followed by 10 (no. may vary)  different identities 
+once we get a queue of profiles which are satisfying required conditions, we will shuffle them to get perfect random arrangement. 
